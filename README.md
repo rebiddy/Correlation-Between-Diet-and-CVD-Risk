@@ -13,13 +13,7 @@ benefit.
 # Data Sources
 
 • National Health and Nutrition Examination Survey (NHANES, 2011–2014)
-o Publicly available dataset from the CDC.
-o Includes demographic, dietary, and health outcome data for thousands of U.S.
-adults aged 30–74.
+
 • Healthy Eating Index (HEI-2015)
-o A standardized measure of dietary quality developed by the USDA.
+
 • Framingham General Cardiovascular Risk Score
-o A validated equation used to estimate 10-year CVD risk based on age, sex,
-cholesterol, blood pressure, and other factors.
-These sources provide a rich dataset that integrates dietary quality with health outcomes,
-enabling correlation and regression analyses
